@@ -10,66 +10,11 @@
             <mxPoint x="80" y="80" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TtoGrl6Ccro9nIW0m6MG-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="168.57142857142856" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TtoGrl6Ccro9nIW0m6MG-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="83.375" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-5" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Apakah user&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;sudah login?&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="36.25" y="120" width="93.75" height="97" as="geometry" />
-        </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TtoGrl6Ccro9nIW0m6MG-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="286" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-7" value="Form Login" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
-          <mxGeometry x="153.43" y="260" width="130" height="51.5" as="geometry" />
-        </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TtoGrl6Ccro9nIW0m6MG-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="168.73913043478262" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TtoGrl6Ccro9nIW0m6MG-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="218.3478260869565" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-10" value="&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Apakah user sudah&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;memiliki akun?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="170" y="118.5" width="96.87" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-17" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="138" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-19" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="260" y="138" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-22" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="220" y="218" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TtoGrl6Ccro9nIW0m6MG-23" target="TtoGrl6Ccro9nIW0m6MG-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="451" y="168" />
-              <mxPoint x="451" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-23" value="Page&lt;div&gt;Register&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
-          <mxGeometry x="300" y="142.75" width="130" height="51.5" as="geometry" />
-        </mxCell>
-        <mxCell id="TtoGrl6Ccro9nIW0m6MG-25" value="Page&lt;div&gt;Dashboard&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
-          <mxGeometry x="18.120000000000005" y="260" width="130" height="51.5" as="geometry" />
-        </mxCell>
         <mxCell id="Z7GuNcyc4GhH8mUC39YF-1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="30.999999999999996" y="15" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7GuNcyc4GhH8mUC39YF-3" value="Page Home" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="14" y="129" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
