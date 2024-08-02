@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="wOFecBDlJIVbzIcXYYMD">
-    <mxGraphModel dx="1750" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="none" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,7 +137,7 @@
         <mxCell id="K-VxU4fRmzj4R5okDVpe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z7GuNcyc4GhH8mUC39YF-43" target="K-VxU4fRmzj4R5okDVpe-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z7GuNcyc4GhH8mUC39YF-43" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Sudah Memiliki&lt;/font&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Akun?&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="Z7GuNcyc4GhH8mUC39YF-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Have a&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Accounts?&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="94" y="1225" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Z7GuNcyc4GhH8mUC39YF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Z7GuNcyc4GhH8mUC39YF-21" target="Z7GuNcyc4GhH8mUC39YF-43" edge="1">
@@ -189,6 +189,51 @@
         </mxCell>
         <mxCell id="K-VxU4fRmzj4R5okDVpe-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;A&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="490" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-15" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1195" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-VxU4fRmzj4R5okDVpe-16" target="K-VxU4fRmzj4R5okDVpe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-16" value="Member&lt;div&gt;Account?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="174" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K-VxU4fRmzj4R5okDVpe-14" target="K-VxU4fRmzj4R5okDVpe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-VxU4fRmzj4R5okDVpe-18" target="K-VxU4fRmzj4R5okDVpe-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-18" value="&lt;div&gt;Dashboard&lt;/div&gt;&lt;div&gt;Member&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="600" y="194" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-20" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="569" y="194" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-21" value="1. Schedule&lt;div&gt;2.Events&lt;/div&gt;&lt;div&gt;3. Profile&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="750" y="174" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-VxU4fRmzj4R5okDVpe-23" target="K-VxU4fRmzj4R5okDVpe-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-23" value="Admin&lt;div&gt;Account?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="469" y="300" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K-VxU4fRmzj4R5okDVpe-16" target="K-VxU4fRmzj4R5okDVpe-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-25" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-26" value="Dashboard&lt;div&gt;Admin&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-29" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="569" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-30" value="1. Schedule&lt;div&gt;2. Events&lt;/div&gt;&lt;div&gt;3. Cash Manage&lt;/div&gt;&lt;div&gt;4. Attendance&lt;/div&gt;&lt;div&gt;5. Profile&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="750" y="300" width="110" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
