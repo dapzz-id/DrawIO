@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="wOFecBDlJIVbzIcXYYMD">
-    <mxGraphModel dx="913" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="Z7GuNcyc4GhH8mUC39YF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;" parent="1" source="Z7GuNcyc4GhH8mUC39YF-4" target="Z7GuNcyc4GhH8mUC39YF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z7GuNcyc4GhH8mUC39YF-4" value="1. About&lt;div&gt;2. Learns&lt;/div&gt;&lt;div&gt;3. Testimonials&lt;/div&gt;&lt;div&gt;4. Contacts&lt;/div&gt;&lt;div&gt;5. Achievements&lt;/div&gt;&lt;div&gt;6.Login&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="Z7GuNcyc4GhH8mUC39YF-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. About&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Learns&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. Testimonials&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. Contacts&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;5. Achievements&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;6.Login&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="128" y="375" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Z7GuNcyc4GhH8mUC39YF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;" parent="1" source="Z7GuNcyc4GhH8mUC39YF-7" target="Z7GuNcyc4GhH8mUC39YF-9" edge="1">
@@ -202,7 +202,7 @@
         <mxCell id="S5sTAT7ZZBU8H_Rt4JTI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="K-VxU4fRmzj4R5okDVpe-21" target="S5sTAT7ZZBU8H_Rt4JTI-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K-VxU4fRmzj4R5okDVpe-21" value="1. Schedule&lt;div&gt;2.Events&lt;/div&gt;&lt;div&gt;3. Profile&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-21" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Schedule&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2.Events&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. Profile&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="825" y="254" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K-VxU4fRmzj4R5okDVpe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="K-VxU4fRmzj4R5okDVpe-23" target="K-VxU4fRmzj4R5okDVpe-26" edge="1">
@@ -229,7 +229,7 @@
         <mxCell id="S5sTAT7ZZBU8H_Rt4JTI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="K-VxU4fRmzj4R5okDVpe-30" target="S5sTAT7ZZBU8H_Rt4JTI-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K-VxU4fRmzj4R5okDVpe-30" value="1. Schedule&lt;div&gt;2. Events&lt;/div&gt;&lt;div&gt;3. Cash Manage&lt;/div&gt;&lt;div&gt;4. Attendance&lt;/div&gt;&lt;div&gt;5. Profile&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-30" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Schedule&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Events&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. Cash Manage&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. Attendance&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;5. Profile&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="825" y="380" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K-VxU4fRmzj4R5okDVpe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="K-VxU4fRmzj4R5okDVpe-33" target="K-VxU4fRmzj4R5okDVpe-36" edge="1">
@@ -250,7 +250,7 @@
         <mxCell id="K-VxU4fRmzj4R5okDVpe-36" value="Dashboard&lt;div&gt;Bendahara&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="675" y="530" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K-VxU4fRmzj4R5okDVpe-38" value="1. Schedule&lt;div&gt;2. Events&lt;/div&gt;&lt;div&gt;3. Cash Manage&lt;/div&gt;&lt;div&gt;4. Profile&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-38" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Schedule&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Events&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. Cash Manage&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. Profile&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="830" y="510" width="105" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K-VxU4fRmzj4R5okDVpe-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="K-VxU4fRmzj4R5okDVpe-40" target="K-VxU4fRmzj4R5okDVpe-44" edge="1">
@@ -282,7 +282,7 @@
         <mxCell id="S5sTAT7ZZBU8H_Rt4JTI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="K-VxU4fRmzj4R5okDVpe-47" target="S5sTAT7ZZBU8H_Rt4JTI-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K-VxU4fRmzj4R5okDVpe-47" value="1. Schedule&lt;div&gt;2. Events&lt;/div&gt;&lt;div&gt;3. Attendance&lt;/div&gt;&lt;div&gt;4. Profile&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="K-VxU4fRmzj4R5okDVpe-47" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Schedule&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Events&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. Attendance&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. Profile&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="830" y="644" width="105" height="100" as="geometry" />
         </mxCell>
         <mxCell id="S5sTAT7ZZBU8H_Rt4JTI-1" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBorderColor=none;" parent="1" vertex="1">
