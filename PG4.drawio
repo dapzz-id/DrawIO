@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="XzWiyYvCrvDIPQm6cIMk">
-    <mxGraphModel dx="2100" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
         <mxCell id="umjUlpMFHEl1J04-WHOt-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="umjUlpMFHEl1J04-WHOt-5" target="dU6HxZh4ZYSRWgkDmvvh-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="umjUlpMFHEl1J04-WHOt-5" value="Attendance?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="umjUlpMFHEl1J04-WHOt-5" value="Presence?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="113" y="646" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="umjUlpMFHEl1J04-WHOt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="umjUlpMFHEl1J04-WHOt-6" target="umjUlpMFHEl1J04-WHOt-7" edge="1">
@@ -160,7 +160,7 @@
         <mxCell id="umjUlpMFHEl1J04-WHOt-6" value="Menampilkan Data&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Absensi Syntax&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="238" y="666" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="umjUlpMFHEl1J04-WHOt-7" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Add Token&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Edit Attendance&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. Delete Attendance&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="umjUlpMFHEl1J04-WHOt-7" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Add Token&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Edit Presence&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. Delete Presence&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="446" y="646" width="127" height="100" as="geometry" />
         </mxCell>
         <mxCell id="umjUlpMFHEl1J04-WHOt-10" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -191,7 +191,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="umjUlpMFHEl1J04-WHOt-20" value="Delete&lt;div&gt;Attendance?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="umjUlpMFHEl1J04-WHOt-20" value="Delete&lt;div&gt;Presence?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="750" y="529" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="umjUlpMFHEl1J04-WHOt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="umjUlpMFHEl1J04-WHOt-22" target="umjUlpMFHEl1J04-WHOt-36" edge="1">
@@ -203,7 +203,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="umjUlpMFHEl1J04-WHOt-22" value="Delete Data Schedule" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="umjUlpMFHEl1J04-WHOt-22" value="Delete Data Absensi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="901" y="548" width="135" height="63" as="geometry" />
         </mxCell>
         <mxCell id="umjUlpMFHEl1J04-WHOt-23" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -224,7 +224,7 @@
         <mxCell id="umjUlpMFHEl1J04-WHOt-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="umjUlpMFHEl1J04-WHOt-27" target="umjUlpMFHEl1J04-WHOt-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="umjUlpMFHEl1J04-WHOt-27" value="Edit&lt;div&gt;Attendance?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="umjUlpMFHEl1J04-WHOt-27" value="Edit&lt;div&gt;Presence?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="750" y="394" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="umjUlpMFHEl1J04-WHOt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="umjUlpMFHEl1J04-WHOt-29" edge="1">
