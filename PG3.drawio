@@ -31,8 +31,10 @@
         <mxCell id="XSzMCote4gQr-xo7A_UP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XSzMCote4gQr-xo7A_UP-10" target="XSzMCote4gQr-xo7A_UP-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XSzMCote4gQr-xo7A_UP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XSzMCote4gQr-xo7A_UP-10" target="XSzMCote4gQr-xo7A_UP-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XSzMCote4gQr-xo7A_UP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XSzMCote4gQr-xo7A_UP-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="875" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XSzMCote4gQr-xo7A_UP-10" value="Profile?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="127" y="744" width="100" height="100" as="geometry" />
@@ -66,15 +68,12 @@
         <mxCell id="XSzMCote4gQr-xo7A_UP-19" value="Menampilkan&amp;nbsp;&lt;div&gt;Data Profile Akun&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="252" y="764" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XSzMCote4gQr-xo7A_UP-20" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="127" y="875" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="XSzMCote4gQr-xo7A_UP-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="XSzMCote4gQr-xo7A_UP-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="335" y="964" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSzMCote4gQr-xo7A_UP-22" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Attendance&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. E-Certificate&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. Logout&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="XSzMCote4gQr-xo7A_UP-22" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Presence&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. E-Certificate&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. Logout&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="285" y="861" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XSzMCote4gQr-xo7A_UP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XSzMCote4gQr-xo7A_UP-25" target="XSzMCote4gQr-xo7A_UP-27" edge="1">
@@ -83,7 +82,7 @@
         <mxCell id="XSzMCote4gQr-xo7A_UP-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XSzMCote4gQr-xo7A_UP-25" target="XSzMCote4gQr-xo7A_UP-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XSzMCote4gQr-xo7A_UP-25" value="Attendance?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="XSzMCote4gQr-xo7A_UP-25" value="Presence?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="285" y="1005" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XSzMCote4gQr-xo7A_UP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XSzMCote4gQr-xo7A_UP-27" edge="1">
@@ -244,6 +243,9 @@
         </mxCell>
         <mxCell id="XSzMCote4gQr-xo7A_UP-80" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="227" y="376" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BGAgBEuzldwWwedri7fR-1" value="END&lt;div&gt;POINT&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="147" y="874" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
