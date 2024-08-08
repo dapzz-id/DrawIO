@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="a8UIe7vdmMAAO8bH5ttX">
-    <mxGraphModel dx="1313" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8VWl4SBBmZREgqOAzla-10" value="Menampilkan&amp;nbsp;&lt;div&gt;Jadwal dan tempat&lt;div&gt;Syntax&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+        <mxCell id="h8VWl4SBBmZREgqOAzla-10" value="Display Schedule&lt;div&gt;and Syntax location&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="177" y="255" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h8VWl4SBBmZREgqOAzla-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="h8VWl4SBBmZREgqOAzla-13" edge="1">
@@ -62,13 +62,13 @@
             <mxPoint x="391" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8VWl4SBBmZREgqOAzla-13" value="Menampilkan&amp;nbsp;&lt;div&gt;Jadwal Events&lt;div&gt;Syntax&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+        <mxCell id="h8VWl4SBBmZREgqOAzla-13" value="Show Events&lt;div&gt;Schedule Syntax&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="177" y="382" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h8VWl4SBBmZREgqOAzla-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h8VWl4SBBmZREgqOAzla-16" target="h8VWl4SBBmZREgqOAzla-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8VWl4SBBmZREgqOAzla-16" value="Menampilkan&amp;nbsp;&lt;div&gt;Data Profile Akun&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+        <mxCell id="h8VWl4SBBmZREgqOAzla-16" value="Display Account&lt;div&gt;Profile Data&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="177" y="510" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h8VWl4SBBmZREgqOAzla-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h8VWl4SBBmZREgqOAzla-26" target="h8VWl4SBBmZREgqOAzla-28" edge="1">
@@ -95,7 +95,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8VWl4SBBmZREgqOAzla-30" value="Menampilkan&lt;div&gt;Page Absensi&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+        <mxCell id="h8VWl4SBBmZREgqOAzla-30" value="Show presence&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Page&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="516" y="651" width="148" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h8VWl4SBBmZREgqOAzla-32" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -115,7 +115,7 @@
             <mxPoint x="721" y="681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8VWl4SBBmZREgqOAzla-35" value="Menampilkan&lt;div&gt;Page E-Sertifikat&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+        <mxCell id="h8VWl4SBBmZREgqOAzla-35" value="Show E-Certificate&lt;div&gt;Page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="516" y="782" width="148" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h8VWl4SBBmZREgqOAzla-37" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
