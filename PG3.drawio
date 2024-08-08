@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="k1L-fH-aqej1xiUDdUSh">
-    <mxGraphModel dx="1400" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,7 +51,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSzMCote4gQr-xo7A_UP-15" value="Menampilkan&amp;nbsp;&lt;div&gt;Jadwal dan tempat&lt;div&gt;Syntax&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+        <mxCell id="XSzMCote4gQr-xo7A_UP-15" value="Display Schedule&lt;div&gt;and Syntax Location&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="252" y="376" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XSzMCote4gQr-xo7A_UP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XSzMCote4gQr-xo7A_UP-17" edge="1">
@@ -59,13 +59,13 @@
             <mxPoint x="466" y="402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSzMCote4gQr-xo7A_UP-17" value="Menampilkan&amp;nbsp;&lt;div&gt;Jadwal Events&lt;div&gt;Syntax&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+        <mxCell id="XSzMCote4gQr-xo7A_UP-17" value="Show Events&lt;div&gt;Schedule Syntax&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="252" y="503" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XSzMCote4gQr-xo7A_UP-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XSzMCote4gQr-xo7A_UP-19" target="XSzMCote4gQr-xo7A_UP-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XSzMCote4gQr-xo7A_UP-19" value="Menampilkan&amp;nbsp;&lt;div&gt;Data Profile Akun&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+        <mxCell id="XSzMCote4gQr-xo7A_UP-19" value="Dsiplay Account&lt;div&gt;Profile Data&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="252" y="764" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XSzMCote4gQr-xo7A_UP-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="XSzMCote4gQr-xo7A_UP-25" edge="1">
@@ -94,7 +94,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSzMCote4gQr-xo7A_UP-27" value="Menampilkan&lt;div&gt;Page Absensi&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+        <mxCell id="XSzMCote4gQr-xo7A_UP-27" value="Show Presence&lt;div&gt;Page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="417" y="1025" width="148" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XSzMCote4gQr-xo7A_UP-28" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -114,7 +114,7 @@
             <mxPoint x="622" y="1055" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSzMCote4gQr-xo7A_UP-33" value="Menampilkan&lt;div&gt;Page E-Sertifikat&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+        <mxCell id="XSzMCote4gQr-xo7A_UP-33" value="Show E-Certificate&lt;div&gt;Page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="417" y="1156" width="148" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XSzMCote4gQr-xo7A_UP-34" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -163,7 +163,7 @@
         <mxCell id="XSzMCote4gQr-xo7A_UP-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XSzMCote4gQr-xo7A_UP-47" target="XSzMCote4gQr-xo7A_UP-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XSzMCote4gQr-xo7A_UP-47" value="Menampilkan&lt;div&gt;Data Pemasukan dan&lt;/div&gt;&lt;div&gt;Pengeluaran Kas&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+        <mxCell id="XSzMCote4gQr-xo7A_UP-47" value="Display Cash Income&lt;div&gt;and Expenditure Data&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="252" y="632" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XSzMCote4gQr-xo7A_UP-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XSzMCote4gQr-xo7A_UP-48" target="XSzMCote4gQr-xo7A_UP-59" edge="1">
@@ -193,7 +193,7 @@
             <mxPoint x="978.7" y="658" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSzMCote4gQr-xo7A_UP-60" value="Page untuk&lt;div&gt;Menambahkan / Mengedit&lt;/div&gt;&lt;div&gt;Aktivitas Kas&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+        <mxCell id="XSzMCote4gQr-xo7A_UP-60" value="Page for&lt;div&gt;Adding / Editing&lt;/div&gt;&lt;div&gt;Cash Log&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="784" y="632" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XSzMCote4gQr-xo7A_UP-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XSzMCote4gQr-xo7A_UP-61" target="XSzMCote4gQr-xo7A_UP-62" edge="1">
