@@ -180,7 +180,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_k7w5QDFIaTFgjlGjiOG" name="Page-Users">
-    <mxGraphModel dx="802" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1389" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,8 +196,50 @@
         <mxCell id="RN-oBeZtRlTkMkOM2OgN-1" value="Display Member&amp;nbsp;&lt;div&gt;dashboard page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="210" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RN-oBeZtRlTkMkOM2OgN-4" target="1SzS1OZk6pfwaeybDK0d-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RN-oBeZtRlTkMkOM2OgN-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;1. Source Code&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Project Files&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. Library Files&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. Settings&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="85" y="260" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1SzS1OZk6pfwaeybDK0d-1" target="1SzS1OZk6pfwaeybDK0d-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-1" value="Click Source Code?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1SzS1OZk6pfwaeybDK0d-3" target="1SzS1OZk6pfwaeybDK0d-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-3" value="Click Project Files?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1SzS1OZk6pfwaeybDK0d-5" target="1SzS1OZk6pfwaeybDK0d-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-5" value="Click Library Files?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="710" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1SzS1OZk6pfwaeybDK0d-7" target="1SzS1OZk6pfwaeybDK0d-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-7" value="Click Settings?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="860" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-9" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1020" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-11" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="148" y="518" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-12" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="148" y="670" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-13" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="148" y="820" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1SzS1OZk6pfwaeybDK0d-14" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="148" y="970" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
