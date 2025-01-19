@@ -180,7 +180,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_k7w5QDFIaTFgjlGjiOG" name="Page-Users">
-    <mxGraphModel dx="1158" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="744" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,6 +192,9 @@
         </mxCell>
         <mxCell id="RN-oBeZtRlTkMkOM2OgN-1" value="Menampilkan halaman&lt;div&gt;dasbor User&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RN-oBeZtRlTkMkOM2OgN-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. About&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Learns&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. Testimonials&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. Contacts&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;5. Achievements&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;6.Login&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="260" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
