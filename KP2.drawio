@@ -180,12 +180,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_k7w5QDFIaTFgjlGjiOG" name="Page-Users">
-    <mxGraphModel dx="508" dy="276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RN-oBeZtRlTkMkOM2OgN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="79nqDXXAHAK9Ekm0O5LP-1" target="RN-oBeZtRlTkMkOM2OgN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="79nqDXXAHAK9Ekm0O5LP-1" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="50" width="100" height="60" as="geometry" />
+          <mxGeometry x="95" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RN-oBeZtRlTkMkOM2OgN-1" value="Menampilkan halaman&lt;div&gt;dasbor User&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
