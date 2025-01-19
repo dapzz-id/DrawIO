@@ -180,7 +180,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_k7w5QDFIaTFgjlGjiOG" name="Page-Users">
-    <mxGraphModel dx="695" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="802" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,7 +193,7 @@
         <mxCell id="RN-oBeZtRlTkMkOM2OgN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RN-oBeZtRlTkMkOM2OgN-1" target="RN-oBeZtRlTkMkOM2OgN-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RN-oBeZtRlTkMkOM2OgN-1" value="Displays the Member&amp;nbsp;&lt;div&gt;dashboard page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="RN-oBeZtRlTkMkOM2OgN-1" value="Display Member&amp;nbsp;&lt;div&gt;dashboard page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RN-oBeZtRlTkMkOM2OgN-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;1. Source Code&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Project Files&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. Library Files&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. Settings&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;" vertex="1" parent="1">
