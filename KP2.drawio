@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.6" pages="2">
   <diagram name="Page-Awal" id="mKBiCh-Y9cWCqhPkPm35">
-    <mxGraphModel dx="2084" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="Lb25Tq4U3eX6wmk9H78M-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lb25Tq4U3eX6wmk9H78M-2" target="Lb25Tq4U3eX6wmk9H78M-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lb25Tq4U3eX6wmk9H78M-2" value="Displays the&amp;nbsp;&lt;div&gt;Splash Screen page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="Lb25Tq4U3eX6wmk9H78M-2" value="Display &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Splash Screen&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;page&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="56" y="152" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lb25Tq4U3eX6wmk9H78M-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lb25Tq4U3eX6wmk9H78M-4" target="Lb25Tq4U3eX6wmk9H78M-33">
@@ -25,7 +25,7 @@
         <mxCell id="Lb25Tq4U3eX6wmk9H78M-4" value="Is the user&amp;nbsp;&lt;div&gt;logged in?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="96" y="242" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Lb25Tq4U3eX6wmk9H78M-6" value="Displays the&amp;nbsp;&lt;div&gt;Sign In&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;page&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="Lb25Tq4U3eX6wmk9H78M-6" value="Display the&amp;nbsp;&lt;div&gt;Sign In&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;page&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="263" y="427" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lb25Tq4U3eX6wmk9H78M-8" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -43,7 +43,7 @@
         <mxCell id="Lb25Tq4U3eX6wmk9H78M-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lb25Tq4U3eX6wmk9H78M-11" target="Lb25Tq4U3eX6wmk9H78M-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lb25Tq4U3eX6wmk9H78M-11" value="Displays the&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sign Up page&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="Lb25Tq4U3eX6wmk9H78M-11" value="Display&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sign Up page&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="56" y="560" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lb25Tq4U3eX6wmk9H78M-13" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -133,7 +133,7 @@
         <mxCell id="Lb25Tq4U3eX6wmk9H78M-55" value="B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="847" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lb25Tq4U3eX6wmk9H78M-57" value="Displays the Admin&amp;nbsp;&lt;div&gt;dashboard page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="Lb25Tq4U3eX6wmk9H78M-57" value="Display Admin&amp;nbsp;&lt;div&gt;dashboard page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="285" y="847" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lb25Tq4U3eX6wmk9H78M-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lb25Tq4U3eX6wmk9H78M-59" target="Lb25Tq4U3eX6wmk9H78M-60">
@@ -142,7 +142,7 @@
         <mxCell id="Lb25Tq4U3eX6wmk9H78M-59" value="C" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="181" y="947" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lb25Tq4U3eX6wmk9H78M-60" value="Displays the Moderator&amp;nbsp;&lt;div&gt;dashboard page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="Lb25Tq4U3eX6wmk9H78M-60" value="Display Moderator&amp;nbsp;&lt;div&gt;dashboard page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="275" y="947" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lb25Tq4U3eX6wmk9H78M-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lb25Tq4U3eX6wmk9H78M-62" target="Lb25Tq4U3eX6wmk9H78M-63">
@@ -151,7 +151,7 @@
         <mxCell id="Lb25Tq4U3eX6wmk9H78M-62" value="D" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="1047" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lb25Tq4U3eX6wmk9H78M-63" value="Displays the Member&amp;nbsp;&lt;div&gt;dashboard page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="Lb25Tq4U3eX6wmk9H78M-63" value="Display Member&amp;nbsp;&lt;div&gt;dashboard page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="263" y="1047" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lb25Tq4U3eX6wmk9H78M-65" value="E" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
