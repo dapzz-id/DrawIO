@@ -846,7 +846,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Salinan Page - SC for Admin and Moderator" id="EhzXxhXVGM9_bPKhMCwH">
-    <mxGraphModel dx="802" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="744" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="SXTLO0E2UMi17B65oc-N-0" />
         <mxCell id="SXTLO0E2UMi17B65oc-N-1" parent="SXTLO0E2UMi17B65oc-N-0" />
@@ -1013,7 +1013,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-56" value="A" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
-          <mxGeometry x="55" y="1190" width="60" height="60" as="geometry" />
+          <mxGeometry x="416" y="1100" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SXTLO0E2UMi17B65oc-N-1" source="SXTLO0E2UMi17B65oc-N-58" target="SXTLO0E2UMi17B65oc-N-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1028,22 +1028,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-61" value="Want to copy&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the code?&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
-          <mxGeometry x="20" y="1270" width="130" height="120" as="geometry" />
+          <mxGeometry x="381" y="1180" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-62" value="B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
-          <mxGeometry x="540" y="1416" width="60" height="60" as="geometry" />
+          <mxGeometry x="416" y="1480" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-63" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
-          <mxGeometry x="87" y="1379" width="30" height="30" as="geometry" />
+          <mxGeometry x="448" y="1289" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-64" value="Copy Code to&lt;div&gt;Clipboard&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
-          <mxGeometry x="191" y="1280" width="100" height="100" as="geometry" />
+          <mxGeometry x="542" y="1190" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-65" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
-          <mxGeometry x="137" y="1299" width="30" height="30" as="geometry" />
+          <mxGeometry x="498" y="1209" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9uzNCAXfvrSwxl4kto32-2" value="Want to add&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the code?&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
-          <mxGeometry x="20" y="1416" width="130" height="120" as="geometry" />
+        <mxCell id="9uzNCAXfvrSwxl4kto32-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SXTLO0E2UMi17B65oc-N-1" source="9uzNCAXfvrSwxl4kto32-2" target="9uzNCAXfvrSwxl4kto32-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9uzNCAXfvrSwxl4kto32-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SXTLO0E2UMi17B65oc-N-1" source="9uzNCAXfvrSwxl4kto32-2" target="SXTLO0E2UMi17B65oc-N-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9uzNCAXfvrSwxl4kto32-2" value="Want to add&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;or edit code?&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
+          <mxGeometry x="381" y="1326" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9uzNCAXfvrSwxl4kto32-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SXTLO0E2UMi17B65oc-N-1" source="9uzNCAXfvrSwxl4kto32-4" target="9uzNCAXfvrSwxl4kto32-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9uzNCAXfvrSwxl4kto32-4" value="Display add/edit&lt;div&gt;code page&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
+          <mxGeometry x="528" y="1356" width="168" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9uzNCAXfvrSwxl4kto32-6" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
+          <mxGeometry x="498" y="1356" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uzNCAXfvrSwxl4kto32-8" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
+          <mxGeometry x="448" y="1437" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uzNCAXfvrSwxl4kto32-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SXTLO0E2UMi17B65oc-N-1" source="9uzNCAXfvrSwxl4kto32-9" target="9uzNCAXfvrSwxl4kto32-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9uzNCAXfvrSwxl4kto32-9" value="Add/Edit Code" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
+          <mxGeometry x="722" y="1336" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9uzNCAXfvrSwxl4kto32-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SXTLO0E2UMi17B65oc-N-1" source="9uzNCAXfvrSwxl4kto32-11" target="9uzNCAXfvrSwxl4kto32-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9uzNCAXfvrSwxl4kto32-11" value="Code DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
+          <mxGeometry x="866" y="1356" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9uzNCAXfvrSwxl4kto32-13" value="B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
+          <mxGeometry x="982" y="1356" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
