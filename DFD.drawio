@@ -61,8 +61,14 @@
         <mxCell id="OrRsMtEutC-DsmY-cImg-11" value="Data Karyawan, Data absensi, Data lembur" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="320" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OrRsMtEutC-DsmY-cImg-12" value="Data Karyawan, Data absensi, Data lembur, Data Slip Gaji, Laporan Gaji Karyawan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OrRsMtEutC-DsmY-cImg-12" value="Data Karyawan, Data absensi, Data lembur, Data Slip Gaji, Data Gaji Karyawan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="507" y="190" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OrRsMtEutC-DsmY-cImg-13" value="Data Karyawan, Data absensi, Data Jabatan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="540" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OrRsMtEutC-DsmY-cImg-15" value="Data Karyawan, Upah per jam, Rekap data absensi, Laporan Gaji Karyawan, Data Jabatan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="427" y="540" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
