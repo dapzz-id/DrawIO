@@ -846,7 +846,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Salinan Page - SC for Admin and Moderator" id="EhzXxhXVGM9_bPKhMCwH">
-    <mxGraphModel dx="1737" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="802" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="SXTLO0E2UMi17B65oc-N-0" />
         <mxCell id="SXTLO0E2UMi17B65oc-N-1" parent="SXTLO0E2UMi17B65oc-N-0" />
@@ -1013,7 +1013,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-56" value="A" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
-          <mxGeometry x="516" y="22" width="60" height="60" as="geometry" />
+          <mxGeometry x="55" y="1190" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SXTLO0E2UMi17B65oc-N-1" source="SXTLO0E2UMi17B65oc-N-58" target="SXTLO0E2UMi17B65oc-N-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1021,26 +1021,29 @@
         <mxCell id="SXTLO0E2UMi17B65oc-N-58" value="B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
           <mxGeometry x="301" y="112" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SXTLO0E2UMi17B65oc-N-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SXTLO0E2UMi17B65oc-N-1" source="SXTLO0E2UMi17B65oc-N-61" target="SXTLO0E2UMi17B65oc-N-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SXTLO0E2UMi17B65oc-N-1" source="SXTLO0E2UMi17B65oc-N-61" target="SXTLO0E2UMi17B65oc-N-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9uzNCAXfvrSwxl4kto32-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SXTLO0E2UMi17B65oc-N-1" source="SXTLO0E2UMi17B65oc-N-61" target="9uzNCAXfvrSwxl4kto32-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-61" value="Want to copy&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the code?&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
-          <mxGeometry x="481" y="112" width="130" height="120" as="geometry" />
+          <mxGeometry x="20" y="1270" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-62" value="B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
-          <mxGeometry x="516" y="260" width="60" height="60" as="geometry" />
+          <mxGeometry x="540" y="1416" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-63" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
-          <mxGeometry x="551" y="218" width="30" height="30" as="geometry" />
+          <mxGeometry x="87" y="1379" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-64" value="Copy Code to&lt;div&gt;Clipboard&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
-          <mxGeometry x="656" y="122" width="100" height="100" as="geometry" />
+          <mxGeometry x="191" y="1280" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SXTLO0E2UMi17B65oc-N-65" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
-          <mxGeometry x="591" y="134" width="30" height="30" as="geometry" />
+          <mxGeometry x="137" y="1299" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uzNCAXfvrSwxl4kto32-2" value="Want to add&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the code?&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="SXTLO0E2UMi17B65oc-N-1">
+          <mxGeometry x="20" y="1416" width="130" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
