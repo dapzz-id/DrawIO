@@ -180,7 +180,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_k7w5QDFIaTFgjlGjiOG" name="Page - Member">
-    <mxGraphModel dx="1489" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1603" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -307,7 +307,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Salinan UML - Activity Diagram - Page Member" id="7vq9bV7vcX6-_voqrgYo">
-    <mxGraphModel dx="947" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ijZk958FvmkKyhyEJ2G7-0" />
         <mxCell id="ijZk958FvmkKyhyEJ2G7-1" parent="ijZk958FvmkKyhyEJ2G7-0" />
@@ -328,8 +328,14 @@
             <mxPoint x="109.99999999999955" y="84" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3MqZ07uQFazPH54ypf2P-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ijZk958FvmkKyhyEJ2G7-9" source="tUtxSsiHr7R6j0-t81rL-0" target="3MqZ07uQFazPH54ypf2P-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tUtxSsiHr7R6j0-t81rL-0" value="Display Member&lt;div&gt;dashboard page&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="ijZk958FvmkKyhyEJ2G7-9">
           <mxGeometry x="59.999999999999545" y="84" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3MqZ07uQFazPH54ypf2P-0" value="Source Code?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="ijZk958FvmkKyhyEJ2G7-9">
+          <mxGeometry x="60" y="156" width="100" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
