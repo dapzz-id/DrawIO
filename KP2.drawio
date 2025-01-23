@@ -3003,12 +3003,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="UML - Activity Diagram - Page Moderator" id="jy6b7njs41cyTMV6FiWW">
-    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0mmdbNtEGsdTGF4Vo8zl-0" />
         <mxCell id="0mmdbNtEGsdTGF4Vo8zl-1" parent="0mmdbNtEGsdTGF4Vo8zl-0" />
         <mxCell id="0mmdbNtEGsdTGF4Vo8zl-2" value="Aplikasi SyCode | Member" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="0mmdbNtEGsdTGF4Vo8zl-1">
-          <mxGeometry x="44.000000000000455" y="139" width="870" height="1780" as="geometry" />
+          <mxGeometry x="150.00000000000045" y="157" width="870" height="1340" as="geometry" />
         </mxCell>
         <mxCell id="0mmdbNtEGsdTGF4Vo8zl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0mmdbNtEGsdTGF4Vo8zl-2" source="0mmdbNtEGsdTGF4Vo8zl-19" target="0mmdbNtEGsdTGF4Vo8zl-5">
           <mxGeometry relative="1" as="geometry" />
@@ -3017,7 +3017,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0mmdbNtEGsdTGF4Vo8zl-3" value="Member" style="swimlane;startSize=20;html=1;fillColor=default;" vertex="1" parent="0mmdbNtEGsdTGF4Vo8zl-2">
-          <mxGeometry y="20" width="330" height="1760" as="geometry" />
+          <mxGeometry y="20" width="330" height="1320" as="geometry" />
         </mxCell>
         <mxCell id="0mmdbNtEGsdTGF4Vo8zl-5" value="Click Source&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Code?&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="0mmdbNtEGsdTGF4Vo8zl-3">
           <mxGeometry x="35" y="133" width="100" height="72" as="geometry" />
@@ -3110,7 +3110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0mmdbNtEGsdTGF4Vo8zl-18" value="System" style="swimlane;startSize=20;html=1;" vertex="1" parent="0mmdbNtEGsdTGF4Vo8zl-2">
-          <mxGeometry x="330" y="20" width="540" height="1760" as="geometry" />
+          <mxGeometry x="330" y="20" width="540" height="1320" as="geometry" />
         </mxCell>
         <mxCell id="0mmdbNtEGsdTGF4Vo8zl-19" value="Display Moderator&lt;div&gt;dashboard page&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="0mmdbNtEGsdTGF4Vo8zl-18">
           <mxGeometry x="59.999999999999545" y="78" width="100" height="50" as="geometry" />
@@ -3386,45 +3386,15 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="16" y="1147" />
-              <mxPoint x="16" y="1281" />
-              <mxPoint x="421" y="1281" />
+              <mxPoint x="16" y="1286" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="0mmdbNtEGsdTGF4Vo8zl-11" value="Click Library&lt;div&gt;Files?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="0mmdbNtEGsdTGF4Vo8zl-1">
-          <mxGeometry x="1050.0000000000005" y="640" width="100" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="0mmdbNtEGsdTGF4Vo8zl-15" value="Click Setting?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="0mmdbNtEGsdTGF4Vo8zl-1">
-          <mxGeometry x="1050.0000000000005" y="740" width="100" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="0mmdbNtEGsdTGF4Vo8zl-46" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0mmdbNtEGsdTGF4Vo8zl-1">
-          <mxGeometry x="1101" y="698" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0mmdbNtEGsdTGF4Vo8zl-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0mmdbNtEGsdTGF4Vo8zl-1" source="0mmdbNtEGsdTGF4Vo8zl-11" target="0mmdbNtEGsdTGF4Vo8zl-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0mmdbNtEGsdTGF4Vo8zl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.024;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0mmdbNtEGsdTGF4Vo8zl-1" source="0mmdbNtEGsdTGF4Vo8zl-11" target="0mmdbNtEGsdTGF4Vo8zl-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1236" y="720" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1150.0000000000005" y="725" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0mmdbNtEGsdTGF4Vo8zl-30" value="Want to download&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;a files?&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="0mmdbNtEGsdTGF4Vo8zl-1">
-          <mxGeometry x="1260.0000000000005" y="701" width="100" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="0mmdbNtEGsdTGF4Vo8zl-31" value="Downloading the files" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="0mmdbNtEGsdTGF4Vo8zl-1">
-          <mxGeometry x="1260" y="780" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0mmdbNtEGsdTGF4Vo8zl-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0mmdbNtEGsdTGF4Vo8zl-1" source="0mmdbNtEGsdTGF4Vo8zl-30" target="0mmdbNtEGsdTGF4Vo8zl-31">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hyCNmi_GN6d8S524bdm7-26" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0mmdbNtEGsdTGF4Vo8zl-1">
-          <mxGeometry x="479" y="648" width="30" height="30" as="geometry" />
+          <mxGeometry x="585" y="666" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6U8TaBULMxnsNLL_E0F--2" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0mmdbNtEGsdTGF4Vo8zl-1">
-          <mxGeometry x="132" y="1309" width="30" height="30" as="geometry" />
+          <mxGeometry x="238" y="1327" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
