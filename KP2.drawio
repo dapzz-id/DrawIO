@@ -657,7 +657,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KIxV54UXLSdM3cIYr2Uh" name="Page - SC for Member">
-    <mxGraphModel dx="534" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2011,7 +2011,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page - Manage User for Admin" id="HPvv74edqlpXiKHy_uc7">
-    <mxGraphModel dx="992" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JYIpHphYucRGTPIvWJeh-0" />
         <mxCell id="JYIpHphYucRGTPIvWJeh-1" parent="JYIpHphYucRGTPIvWJeh-0" />
@@ -2102,41 +2102,11 @@
         <mxCell id="JYIpHphYucRGTPIvWJeh-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JYIpHphYucRGTPIvWJeh-1" source="JYIpHphYucRGTPIvWJeh-31" target="JYIpHphYucRGTPIvWJeh-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYIpHphYucRGTPIvWJeh-31" value="B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="JYIpHphYucRGTPIvWJeh-1">
+        <mxCell id="JYIpHphYucRGTPIvWJeh-31" value="A" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="JYIpHphYucRGTPIvWJeh-1">
           <mxGeometry x="310" y="388" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYIpHphYucRGTPIvWJeh-35" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JYIpHphYucRGTPIvWJeh-1">
           <mxGeometry x="182" y="923" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JYIpHphYucRGTPIvWJeh-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYIpHphYucRGTPIvWJeh-1" source="JYIpHphYucRGTPIvWJeh-41" target="JYIpHphYucRGTPIvWJeh-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JYIpHphYucRGTPIvWJeh-41" value="A" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="JYIpHphYucRGTPIvWJeh-1">
-          <mxGeometry x="479" y="158" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JYIpHphYucRGTPIvWJeh-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYIpHphYucRGTPIvWJeh-1" source="JYIpHphYucRGTPIvWJeh-44" target="JYIpHphYucRGTPIvWJeh-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JYIpHphYucRGTPIvWJeh-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYIpHphYucRGTPIvWJeh-1" source="JYIpHphYucRGTPIvWJeh-44" target="JYIpHphYucRGTPIvWJeh-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JYIpHphYucRGTPIvWJeh-44" value="Want to download&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;a library?&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="JYIpHphYucRGTPIvWJeh-1">
-          <mxGeometry x="444" y="248" width="130" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="JYIpHphYucRGTPIvWJeh-45" value="B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="JYIpHphYucRGTPIvWJeh-1">
-          <mxGeometry x="479" y="396" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JYIpHphYucRGTPIvWJeh-46" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JYIpHphYucRGTPIvWJeh-1">
-          <mxGeometry x="514" y="354" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JYIpHphYucRGTPIvWJeh-47" value="Downloading the library" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="JYIpHphYucRGTPIvWJeh-1">
-          <mxGeometry x="619" y="258" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="JYIpHphYucRGTPIvWJeh-48" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JYIpHphYucRGTPIvWJeh-1">
-          <mxGeometry x="554" y="270" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JYIpHphYucRGTPIvWJeh-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JYIpHphYucRGTPIvWJeh-1" source="JYIpHphYucRGTPIvWJeh-47" target="JYIpHphYucRGTPIvWJeh-45">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nmZtMS82ACyDZ60piuwn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYIpHphYucRGTPIvWJeh-1" source="7zb0b7QYtzjZ2B9iwIw2-0" target="JYIpHphYucRGTPIvWJeh-28">
           <mxGeometry relative="1" as="geometry" />
