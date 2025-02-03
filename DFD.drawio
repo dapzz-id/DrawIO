@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10" pages="2">
   <diagram name="Halaman-1" id="xn-eO0l5wmhpl9uXlPZt">
-    <mxGraphModel dx="1603" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -846,7 +846,7 @@
         <mxCell id="kig5aWeusVVS4BcTjXYW-15" value="Sistem Penggajian Karyawan" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090.0000000000005" y="780" width="320" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="kig5aWeusVVS4BcTjXYW-16" value="Direktur" style="swimlane;startSize=20;html=1;" vertex="1" parent="kig5aWeusVVS4BcTjXYW-15">
+        <mxCell id="kig5aWeusVVS4BcTjXYW-16" value="Direktur &amp;amp; Personalia" style="swimlane;startSize=20;html=1;" vertex="1" parent="kig5aWeusVVS4BcTjXYW-15">
           <mxGeometry y="20" width="150" height="860" as="geometry" />
         </mxCell>
         <mxCell id="kig5aWeusVVS4BcTjXYW-17" value="Input username, password" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="kig5aWeusVVS4BcTjXYW-16">
@@ -960,16 +960,16 @@
         <mxCell id="kig5aWeusVVS4BcTjXYW-43" value="Menampilkan&lt;div&gt;halaman profile&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="kig5aWeusVVS4BcTjXYW-33">
           <mxGeometry x="34.999999999999545" y="370" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kig5aWeusVVS4BcTjXYW-44" value="Menampilkan&lt;div&gt;halaman informasi upah&lt;/div&gt;&lt;div&gt;karyawan&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="kig5aWeusVVS4BcTjXYW-33">
+        <mxCell id="kig5aWeusVVS4BcTjXYW-44" value="Menampilkan&lt;div&gt;halaman upah&lt;/div&gt;&lt;div&gt;karyawan&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="kig5aWeusVVS4BcTjXYW-33">
           <mxGeometry x="35" y="520" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kig5aWeusVVS4BcTjXYW-45" value="Menampilkan rekap data absensi dan lembur" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="kig5aWeusVVS4BcTjXYW-33">
           <mxGeometry x="35" y="620" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kig5aWeusVVS4BcTjXYW-46" value="Menampilkan halaman informasi jabatan" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="kig5aWeusVVS4BcTjXYW-33">
+        <mxCell id="kig5aWeusVVS4BcTjXYW-46" value="Menampilkan halaman jabatan" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="kig5aWeusVVS4BcTjXYW-33">
           <mxGeometry x="35" y="290" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kig5aWeusVVS4BcTjXYW-63" value="Menampilkan halaman informasi data karyawan" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="kig5aWeusVVS4BcTjXYW-33">
+        <mxCell id="kig5aWeusVVS4BcTjXYW-63" value="Menampilkan halaman data karyawan" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="kig5aWeusVVS4BcTjXYW-33">
           <mxGeometry x="35" y="730" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kig5aWeusVVS4BcTjXYW-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kig5aWeusVVS4BcTjXYW-15" source="kig5aWeusVVS4BcTjXYW-36" target="kig5aWeusVVS4BcTjXYW-17">
