@@ -8,31 +8,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-2" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="170" y="24" width="100" height="60" as="geometry" />
+          <mxGeometry x="171" y="24" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-4" target="qBEz44nuGZGAMW80VPk4-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-4" value="Setup proyek&lt;div&gt;(Installasi MySQL, Laravel 12)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="124" width="200" height="100" as="geometry" />
+          <mxGeometry x="121" y="124" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-5" target="qBEz44nuGZGAMW80VPk4-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-5" value="Membuat database, t&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;abel&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;beserta relasinya&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="403" width="200" height="100" as="geometry" />
+          <mxGeometry x="121" y="403" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-8" target="qBEz44nuGZGAMW80VPk4-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-8" value="Membuat desain tampilan&lt;div&gt;antarmuka&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;aplikasi web&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(Desain UI/UX, Frontend)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="684" width="200" height="100" as="geometry" />
+          <mxGeometry x="121" y="684" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-9" target="qBEz44nuGZGAMW80VPk4-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="314" />
-              <mxPoint x="360" y="174" />
+              <mxPoint x="361" y="314" />
+              <mxPoint x="361" y="174" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -40,19 +40,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-9" value="Apakah setup telah selesai?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="150" y="254" width="140" height="120" as="geometry" />
+          <mxGeometry x="151" y="254" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-11" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="282" width="50" height="30" as="geometry" />
+          <mxGeometry x="291" y="282" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-14" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="222" y="362" width="40" height="30" as="geometry" />
+          <mxGeometry x="223" y="362" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-15" target="qBEz44nuGZGAMW80VPk4-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="594" />
-              <mxPoint x="360" y="453" />
+              <mxPoint x="361" y="594" />
+              <mxPoint x="361" y="453" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -60,19 +60,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-15" value="Apakah database&lt;div&gt;telah selesai dibuat?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="150" y="534" width="140" height="120" as="geometry" />
+          <mxGeometry x="151" y="534" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-18" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="564" width="50" height="30" as="geometry" />
+          <mxGeometry x="291" y="564" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-20" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="222" y="646" width="40" height="30" as="geometry" />
+          <mxGeometry x="223" y="646" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-21" target="qBEz44nuGZGAMW80VPk4-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="874" />
-              <mxPoint x="360" y="734" />
+              <mxPoint x="361" y="874" />
+              <mxPoint x="361" y="734" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,31 +80,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-21" value="Apakah tampilan&lt;div&gt;telah selesai dibuat?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="150" y="814" width="140" height="120" as="geometry" />
+          <mxGeometry x="151" y="814" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-24" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="844" width="50" height="30" as="geometry" />
+          <mxGeometry x="291" y="844" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-26" value="A" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="964" width="60" height="60" as="geometry" />
+          <mxGeometry x="191" y="964" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-28" target="qBEz44nuGZGAMW80VPk4-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-28" value="A" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="546" y="24" width="60" height="60" as="geometry" />
+          <mxGeometry x="547" y="24" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-29" target="qBEz44nuGZGAMW80VPk4-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-29" value="Membuat API&lt;div&gt;(API login, CRUD course &amp;amp; users)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="471" y="114" width="210" height="100" as="geometry" />
+          <mxGeometry x="472" y="114" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-31" target="qBEz44nuGZGAMW80VPk4-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="706" y="305" />
-              <mxPoint x="706" y="164" />
+              <mxPoint x="707" y="305" />
+              <mxPoint x="707" y="164" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -112,28 +112,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-31" value="Apakah API&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;telah&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;selesai dibuat?&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="506" y="245" width="140" height="120" as="geometry" />
+          <mxGeometry x="507" y="245" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-34" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="646" y="272" width="50" height="30" as="geometry" />
+          <mxGeometry x="647" y="272" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-35" target="qBEz44nuGZGAMW80VPk4-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-35" value="Mengintegrasikan frontend ReactJS dengan API Laravel 12" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="471" y="394" width="210" height="100" as="geometry" />
+          <mxGeometry x="472" y="394" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-37" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="581" y="352" width="40" height="30" as="geometry" />
+          <mxGeometry x="582" y="352" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-38" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="222" y="927" width="40" height="30" as="geometry" />
+          <mxGeometry x="223" y="927" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-39" target="qBEz44nuGZGAMW80VPk4-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="706" y="584" />
-              <mxPoint x="706" y="444" />
+              <mxPoint x="707" y="584" />
+              <mxPoint x="707" y="444" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -141,25 +141,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-39" value="Apakah&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;telah&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;selesai diintegrasikan?&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="506" y="524" width="140" height="120" as="geometry" />
+          <mxGeometry x="507" y="524" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-41" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="646" y="553" width="50" height="30" as="geometry" />
+          <mxGeometry x="647" y="553" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-43" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="581" y="634" width="40" height="30" as="geometry" />
+          <mxGeometry x="582" y="634" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-44" target="qBEz44nuGZGAMW80VPk4-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-44" value="Melakukan pengujian dan debugging&lt;div&gt;aplikasi web&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="471" y="674" width="210" height="100" as="geometry" />
+          <mxGeometry x="472" y="674" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-46" target="qBEz44nuGZGAMW80VPk4-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="706" y="864" />
-              <mxPoint x="706" y="724" />
+              <mxPoint x="707" y="864" />
+              <mxPoint x="707" y="724" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -167,22 +167,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-46" value="Apakah berjalan&amp;nbsp;&lt;div&gt;dengan lancar?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="506" y="804" width="140" height="120" as="geometry" />
+          <mxGeometry x="507" y="804" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-49" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="646" y="833" width="50" height="30" as="geometry" />
+          <mxGeometry x="647" y="833" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-52" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="581" y="917" width="40" height="30" as="geometry" />
+          <mxGeometry x="582" y="917" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qBEz44nuGZGAMW80VPk4-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-56" target="qBEz44nuGZGAMW80VPk4-58">
+        <mxCell id="qBEz44nuGZGAMW80VPk4-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qBEz44nuGZGAMW80VPk4-56" target="qBEz44nuGZGAMW80VPk4-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qBEz44nuGZGAMW80VPk4-56" value="Melakukan deployment ke server" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="471" y="954" width="210" height="100" as="geometry" />
+          <mxGeometry x="472" y="954" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qBEz44nuGZGAMW80VPk4-58" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="526" y="1085" width="100" height="60" as="geometry" />
+        <mxCell id="qBEz44nuGZGAMW80VPk4-60" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="527" y="1085" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
