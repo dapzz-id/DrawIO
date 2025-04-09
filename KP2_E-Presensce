@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.1.1">
   <diagram name="Halaman-1" id="opfCuB-lX1VzVUBHr7MN">
-    <mxGraphModel dx="1226" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-2" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="40" width="100" height="60" as="geometry" />
+          <mxGeometry x="257" y="155" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-3" target="9nBanObFmhorDeJLVS-H-5">
           <mxGeometry relative="1" as="geometry" />
@@ -17,16 +17,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-3" value="Apakah pengguna sudah login?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="135" width="100" height="100" as="geometry" />
+          <mxGeometry x="257" y="250" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-5" target="9nBanObFmhorDeJLVS-H-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-5" value="Menampilkan&lt;div&gt;halaman dasbor&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="200" y="155" width="170" height="60" as="geometry" />
+          <mxGeometry x="397" y="270" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-7" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="164" y="156" width="40" height="30" as="geometry" />
+          <mxGeometry x="361" y="271" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-8" target="9nBanObFmhorDeJLVS-H-11">
           <mxGeometry relative="1" as="geometry" />
@@ -35,31 +35,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-8" value="Apakah pengguna sudah punya akun?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="270" width="100" height="100" as="geometry" />
+          <mxGeometry x="257" y="385" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-10" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="113" y="230" width="50" height="30" as="geometry" />
+          <mxGeometry x="310" y="345" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-11" target="9nBanObFmhorDeJLVS-H-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-11" value="Menampilkan&lt;div&gt;halaman masuk&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="200" y="290" width="170" height="60" as="geometry" />
+          <mxGeometry x="397" y="405" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-13" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="164" y="290" width="40" height="30" as="geometry" />
+          <mxGeometry x="361" y="405" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-14" target="9nBanObFmhorDeJLVS-H-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-14" value="Menampilkan&lt;div&gt;halaman daftar&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="30" y="408" width="160" height="60" as="geometry" />
+          <mxGeometry x="227" y="523" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-16" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="113" y="366" width="50" height="30" as="geometry" />
+          <mxGeometry x="310" y="481" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-17" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="508" width="100" height="60" as="geometry" />
+          <mxGeometry x="257" y="623" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-19" target="9nBanObFmhorDeJLVS-H-26">
           <mxGeometry relative="1" as="geometry" />
@@ -68,46 +68,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-19" value="Apakah klik tombol profile?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="390" y="135" width="100" height="100" as="geometry" />
+          <mxGeometry x="587" y="250" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-22" target="9nBanObFmhorDeJLVS-H-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-22" value="Proses validasi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="245" y="399.5" width="80" height="77" as="geometry" />
+          <mxGeometry x="442" y="514.5" width="80" height="77" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-24" target="9nBanObFmhorDeJLVS-H-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-24" value="Akun valid?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="390" y="388" width="100" height="100" as="geometry" />
+          <mxGeometry x="587" y="503" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-26" value="A" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="271" width="80" height="80" as="geometry" />
+          <mxGeometry x="597" y="386" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-29" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="231" width="50" height="30" as="geometry" />
+          <mxGeometry x="637" y="346" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-30" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="361" width="40" height="30" as="geometry" />
+          <mxGeometry x="637" y="476" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-31" target="9nBanObFmhorDeJLVS-H-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-31" value="A" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="245" y="30" width="80" height="80" as="geometry" />
+          <mxGeometry x="442" y="145" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-35" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="477.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="637" y="592.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-36" target="9nBanObFmhorDeJLVS-H-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-36" value="Menampilkan&lt;div&gt;halaman profil&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="520" y="155" width="170" height="60" as="geometry" />
+          <mxGeometry x="717" y="270" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-38" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="155" width="40" height="30" as="geometry" />
+          <mxGeometry x="687" y="270" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-41" target="9nBanObFmhorDeJLVS-H-43">
           <mxGeometry relative="1" as="geometry" />
@@ -115,31 +115,31 @@
         <mxCell id="9nBanObFmhorDeJLVS-H-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-41" target="9nBanObFmhorDeJLVS-H-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="320" />
-              <mxPoint x="700" y="185" />
+              <mxPoint x="897" y="435" />
+              <mxPoint x="897" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-41" value="Apakah klik tombol keluar?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="555" y="270" width="100" height="100" as="geometry" />
+          <mxGeometry x="752" y="385" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-43" target="9nBanObFmhorDeJLVS-H-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-43" value="Proses keluar akun" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="565" y="398.5" width="80" height="79" as="geometry" />
+          <mxGeometry x="762" y="513.5" width="80" height="79" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-45" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="604" y="363" width="40" height="30" as="geometry" />
+          <mxGeometry x="801" y="478" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-47" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="646" y="289" width="50" height="30" as="geometry" />
+          <mxGeometry x="843" y="404" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-48" value="B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="685" y="408" width="60" height="60" as="geometry" />
+          <mxGeometry x="882" y="523" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-50" value="B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="170" y="229" width="60" height="60" as="geometry" />
+          <mxGeometry x="367" y="344" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.553;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-50" target="9nBanObFmhorDeJLVS-H-11">
           <mxGeometry relative="1" as="geometry" />
