@@ -69,6 +69,9 @@
         <mxCell id="9nBanObFmhorDeJLVS-H-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-19" target="9nBanObFmhorDeJLVS-H-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9nBanObFmhorDeJLVS-H-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nBanObFmhorDeJLVS-H-19" target="9nBanObFmhorDeJLVS-H-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-19" value="Apakah klik tombol profile?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="390" y="135" width="100" height="100" as="geometry" />
         </mxCell>
@@ -111,6 +114,12 @@
         </mxCell>
         <mxCell id="9nBanObFmhorDeJLVS-H-35" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="483" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9nBanObFmhorDeJLVS-H-36" value="Menampilkan&lt;div&gt;halaman profil&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="520" y="155" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9nBanObFmhorDeJLVS-H-38" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="155" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
