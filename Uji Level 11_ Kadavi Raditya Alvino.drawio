@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14" pages="6">
   <diagram id="se7QHTNKLr_evayKKL8l" name="Flowchart">
-    <mxGraphModel dx="1373" dy="-770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1288" dy="-825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,7 +328,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XuuMM4T1N5U9oQ8nVtwl-16" value="Menampilkan Semua&lt;div&gt;Data Proposal&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="XuuMM4T1N5U9oQ8nVtwl-16" value="Menampilkan halaman untuk mengajukan proposal" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="1480" y="2109" width="162" height="83.25" as="geometry" />
         </mxCell>
         <mxCell id="XuuMM4T1N5U9oQ8nVtwl-17" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -386,7 +386,7 @@
         <mxCell id="XuuMM4T1N5U9oQ8nVtwl-39" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1440" y="2426" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XuuMM4T1N5U9oQ8nVtwl-40" value="Menampilkan Semua&lt;div&gt;Data Riwayat&lt;/div&gt;&lt;div&gt;Proposal&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;yang&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Berstatus Closed&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="XuuMM4T1N5U9oQ8nVtwl-40" value="Menampilkan Semua&lt;div&gt;Data Proposal&lt;/div&gt;&lt;div&gt;(Closed. Unclosed)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="1480" y="2258.75" width="162" height="83.25" as="geometry" />
         </mxCell>
       </root>
