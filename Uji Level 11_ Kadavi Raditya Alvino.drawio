@@ -474,12 +474,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mf8DhQdikivg80WHRsm5" name="Activity Diagram">
-    <mxGraphModel dx="1288" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="3433" dy="2210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qTc4P6RSX85qEAHUtZHH-1" value="Fitur Register &amp;amp; Login" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50.000000000000455" y="50" width="410" height="710" as="geometry" />
+          <mxGeometry x="163.00000000000045" y="277" width="410" height="710" as="geometry" />
         </mxCell>
         <mxCell id="qTc4P6RSX85qEAHUtZHH-2" value="User &amp;amp; Admin" style="swimlane;startSize=20;html=1;" vertex="1" parent="qTc4P6RSX85qEAHUtZHH-1">
           <mxGeometry y="20" width="200" height="690" as="geometry" />
@@ -610,7 +610,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzrtip0GBqroSJ9b6BSI-4" value="Fitur Pengajuan Proposal" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490.00000000000045" y="50" width="500" height="380" as="geometry" />
+          <mxGeometry x="603.0000000000005" y="277" width="500" height="380" as="geometry" />
         </mxCell>
         <mxCell id="jzrtip0GBqroSJ9b6BSI-5" value="Admin" style="swimlane;startSize=20;html=1;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-4">
           <mxGeometry y="20" width="230" height="360" as="geometry" />
@@ -678,7 +678,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzrtip0GBqroSJ9b6BSI-26" value="Fitur Pengajuan Proposal" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490.00000000000045" y="450" width="500" height="700" as="geometry" />
+          <mxGeometry x="603.0000000000005" y="677" width="500" height="700" as="geometry" />
         </mxCell>
         <mxCell id="jzrtip0GBqroSJ9b6BSI-27" value="User" style="swimlane;startSize=20;html=1;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-26">
           <mxGeometry y="20" width="230" height="680" as="geometry" />
@@ -818,7 +818,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzrtip0GBqroSJ9b6BSI-64" value="Fitur Verifikasi Proposal" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030.0000000000005" y="50" width="500" height="380" as="geometry" />
+          <mxGeometry x="1143.0000000000005" y="277" width="500" height="380" as="geometry" />
         </mxCell>
         <mxCell id="jzrtip0GBqroSJ9b6BSI-65" value="Admin" style="swimlane;startSize=20;html=1;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-64">
           <mxGeometry y="20" width="230" height="360" as="geometry" />
@@ -871,7 +871,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t83LHdN7xjDSorQ_kyb6-1" value="Fitur CRUD User" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030.0000000000005" y="450" width="500" height="540" as="geometry" />
+          <mxGeometry x="1143.0000000000005" y="677" width="500" height="540" as="geometry" />
         </mxCell>
         <mxCell id="t83LHdN7xjDSorQ_kyb6-2" value="Admin" style="swimlane;startSize=20;html=1;" vertex="1" parent="t83LHdN7xjDSorQ_kyb6-1">
           <mxGeometry y="20" width="230" height="520" as="geometry" />
@@ -985,7 +985,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t83LHdN7xjDSorQ_kyb6-33" value="Fitur Riwayat Proposal" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560.0000000000005" y="50" width="500" height="380" as="geometry" />
+          <mxGeometry x="1673.0000000000005" y="277" width="500" height="380" as="geometry" />
         </mxCell>
         <mxCell id="t83LHdN7xjDSorQ_kyb6-34" value="User &amp;amp; Admin" style="swimlane;startSize=20;html=1;" vertex="1" parent="t83LHdN7xjDSorQ_kyb6-33">
           <mxGeometry y="20" width="230" height="360" as="geometry" />
