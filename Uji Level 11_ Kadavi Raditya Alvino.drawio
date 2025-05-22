@@ -474,7 +474,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mf8DhQdikivg80WHRsm5" name="Activity Diagram">
-    <mxGraphModel dx="3433" dy="2210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1212" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -609,7 +609,7 @@
         <mxCell id="jzrtip0GBqroSJ9b6BSI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qTc4P6RSX85qEAHUtZHH-1" source="qTc4P6RSX85qEAHUtZHH-20" target="qTc4P6RSX85qEAHUtZHH-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzrtip0GBqroSJ9b6BSI-4" value="Fitur Pengajuan Proposal" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-4" value="Fitur Verifikasi Proposal" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="603.0000000000005" y="277" width="500" height="380" as="geometry" />
         </mxCell>
         <mxCell id="jzrtip0GBqroSJ9b6BSI-5" value="Admin" style="swimlane;startSize=20;html=1;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-4">
@@ -817,7 +817,7 @@
         <mxCell id="t83LHdN7xjDSorQ_kyb6-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jzrtip0GBqroSJ9b6BSI-26" source="t83LHdN7xjDSorQ_kyb6-53" target="jzrtip0GBqroSJ9b6BSI-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzrtip0GBqroSJ9b6BSI-64" value="Fitur Verifikasi Proposal" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-64" value="Fitur Detail Verifikasi Proposal" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="1143.0000000000005" y="277" width="500" height="380" as="geometry" />
         </mxCell>
         <mxCell id="jzrtip0GBqroSJ9b6BSI-65" value="Admin" style="swimlane;startSize=20;html=1;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-64">
