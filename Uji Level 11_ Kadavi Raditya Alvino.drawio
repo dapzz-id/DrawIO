@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14" pages="6">
   <diagram id="se7QHTNKLr_evayKKL8l" name="Flowchart">
-    <mxGraphModel dx="1288" dy="-825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1585" dy="-634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1150,7 +1150,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YpyGY8NdBJfoZZtvf5LG" name="DFD">
-    <mxGraphModel dx="1585" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="1084" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1178,9 +1178,6 @@
             <mxPoint x="389" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dMsbfIK6fNl3TKhaxzfN-5" value="Data User, Data Pengajuan Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="144" y="190" width="200" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="dMsbfIK6fNl3TKhaxzfN-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.015;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="463" y="250" as="sourcePoint" />
@@ -1204,6 +1201,9 @@
         </mxCell>
         <mxCell id="xprQPMISCvV3aM1cDn6R-1" value="Dokumen Proposal" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="343" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="otjAUSyrHeuB0DiB4pDJ-2" value="Data User, Data Pengajuan Event,&lt;div&gt;Data Verifikasi Event&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="139" y="181" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
