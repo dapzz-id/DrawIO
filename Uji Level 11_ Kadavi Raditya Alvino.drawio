@@ -474,7 +474,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mf8DhQdikivg80WHRsm5" name="Activity Diagram">
-    <mxGraphModel dx="1144" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1212" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -768,6 +768,59 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzrtip0GBqroSJ9b6BSI-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jzrtip0GBqroSJ9b6BSI-26" source="jzrtip0GBqroSJ9b6BSI-55" target="jzrtip0GBqroSJ9b6BSI-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-64" value="Fitur Verifikasi Proposal" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030.0000000000005" y="50" width="500" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-65" value="Admin" style="swimlane;startSize=20;html=1;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-64">
+          <mxGeometry y="20" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jzrtip0GBqroSJ9b6BSI-65" source="jzrtip0GBqroSJ9b6BSI-67" target="jzrtip0GBqroSJ9b6BSI-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-67" value="Apakah Approved / Rejected?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-65">
+          <mxGeometry x="70" y="138" width="90" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-68" value="tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-65">
+          <mxGeometry x="146.99999999999955" y="134" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-70" value="ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-65">
+          <mxGeometry x="114.99999999999955" y="184" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-79" value="Masukkan Catatan&lt;div&gt;Tambahan&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-65">
+          <mxGeometry x="59.999999999999545" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-71" value="System" style="swimlane;startSize=20;html=1;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-64">
+          <mxGeometry x="230" y="20" width="270" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-72" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-71">
+          <mxGeometry x="119.99999999999955" y="28" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-73" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="jzrtip0GBqroSJ9b6BSI-71" source="jzrtip0GBqroSJ9b6BSI-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="134.99999999999955" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-74" value="Menampilkan&lt;div&gt;Detail Data Proposal&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-71">
+          <mxGeometry x="79.99999999999955" y="77" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-69" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-71">
+          <mxGeometry x="119.99999999999955" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jzrtip0GBqroSJ9b6BSI-71" source="jzrtip0GBqroSJ9b6BSI-82" target="jzrtip0GBqroSJ9b6BSI-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-82" value="Menyimpan ke database" style="html=1;whiteSpace=wrap;" vertex="1" parent="jzrtip0GBqroSJ9b6BSI-71">
+          <mxGeometry x="79.99999999999955" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jzrtip0GBqroSJ9b6BSI-64" source="jzrtip0GBqroSJ9b6BSI-74" target="jzrtip0GBqroSJ9b6BSI-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="jzrtip0GBqroSJ9b6BSI-64" source="jzrtip0GBqroSJ9b6BSI-67" target="jzrtip0GBqroSJ9b6BSI-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jzrtip0GBqroSJ9b6BSI-64" source="jzrtip0GBqroSJ9b6BSI-79" target="jzrtip0GBqroSJ9b6BSI-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
