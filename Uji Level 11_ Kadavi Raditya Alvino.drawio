@@ -1034,60 +1034,60 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YpyGY8NdBJfoZZtvf5LG" name="DFD">
-    <mxGraphModel dx="1084" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1585" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="acgUVFOBf6-kqnTKtl2v-1" value="user" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="184" y="328" width="100" height="50" as="geometry" />
+        <mxCell id="acgUVFOBf6-kqnTKtl2v-1" value="User" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="14" y="211" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xprQPMISCvV3aM1cDn6R-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="acgUVFOBf6-kqnTKtl2v-2" target="xprQPMISCvV3aM1cDn6R-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="acgUVFOBf6-kqnTKtl2v-2" value="Sistem Pengajuan Penyelenggaraan Event Ekstrakurikuler" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="534" y="303" width="100" height="100" as="geometry" />
+          <mxGeometry x="364" y="186" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="acgUVFOBf6-kqnTKtl2v-4" value="admin" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="884" y="328" width="100" height="50" as="geometry" />
+        <mxCell id="acgUVFOBf6-kqnTKtl2v-4" value="Admin" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="714" y="211" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dMsbfIK6fNl3TKhaxzfN-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.015;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="acgUVFOBf6-kqnTKtl2v-1" target="acgUVFOBf6-kqnTKtl2v-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="509" y="477" as="sourcePoint" />
-            <mxPoint x="559" y="427" as="targetPoint" />
+            <mxPoint x="339" y="360" as="sourcePoint" />
+            <mxPoint x="389" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dMsbfIK6fNl3TKhaxzfN-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.017;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="acgUVFOBf6-kqnTKtl2v-2" target="acgUVFOBf6-kqnTKtl2v-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="529" y="366" as="sourcePoint" />
-            <mxPoint x="559" y="427" as="targetPoint" />
+            <mxPoint x="359" y="249" as="sourcePoint" />
+            <mxPoint x="389" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dMsbfIK6fNl3TKhaxzfN-5" value="Data User, Data Pengajuan Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="314" y="307" width="200" height="30" as="geometry" />
+          <mxGeometry x="144" y="190" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dMsbfIK6fNl3TKhaxzfN-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.015;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="633" y="367" as="sourcePoint" />
-            <mxPoint x="885" y="367" as="targetPoint" />
+            <mxPoint x="463" y="250" as="sourcePoint" />
+            <mxPoint x="715" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dMsbfIK6fNl3TKhaxzfN-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.017;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="884" y="339" as="sourcePoint" />
-            <mxPoint x="632" y="339" as="targetPoint" />
+            <mxPoint x="714" y="222" as="sourcePoint" />
+            <mxPoint x="462" y="222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dMsbfIK6fNl3TKhaxzfN-9" value="Data User, Data Pengajuan Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="314" y="367" width="200" height="30" as="geometry" />
+          <mxGeometry x="144" y="250" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dMsbfIK6fNl3TKhaxzfN-10" value="Data User, Data Event Pengajuan,&lt;div&gt;Data Verifikasi Event&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="664" y="298" width="210" height="40" as="geometry" />
+        <mxCell id="dMsbfIK6fNl3TKhaxzfN-10" value="Data User, Data Pengajuan Event,&lt;div&gt;Data Verifikasi Event&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="181" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dMsbfIK6fNl3TKhaxzfN-11" value="Data User, Data Event Pengajuan,&lt;div&gt;Data Verifikasi Event&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="664" y="367" width="210" height="40" as="geometry" />
+        <mxCell id="dMsbfIK6fNl3TKhaxzfN-11" value="Data User, Data Pengajuan Event,&lt;div&gt;Data Verifikasi Event&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="250" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xprQPMISCvV3aM1cDn6R-1" value="Dokumen Proposal" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="544" y="469" width="80" height="60" as="geometry" />
+          <mxGeometry x="374" y="343" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
