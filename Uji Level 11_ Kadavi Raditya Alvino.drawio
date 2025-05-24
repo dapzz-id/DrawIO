@@ -1322,7 +1322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mf8DhQdikivg80WHRsm5" name="Activity Diagram">
-    <mxGraphModel dx="1389" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1682,7 +1682,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzrtip0GBqroSJ9b6BSI-64" value="Fitur Detail Verifikasi Proposal" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
+        <mxCell id="jzrtip0GBqroSJ9b6BSI-64" value="Fitur Detail Data Proposal" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
           <mxGeometry x="1143.0000000000005" y="277" width="500" height="380" as="geometry" />
         </mxCell>
         <mxCell id="jzrtip0GBqroSJ9b6BSI-65" value="Admin" style="swimlane;startSize=20;html=1;" parent="jzrtip0GBqroSJ9b6BSI-64" vertex="1">
